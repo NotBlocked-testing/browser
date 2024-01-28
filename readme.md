@@ -1,4 +1,4 @@
-# TIW Static UV
+# Modified TIW Static UV
 
 Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification makes the proxy a static website, something that has never been normalized before. 
 <br> <strong> Our Developers That Worked on This Project: </strong>
